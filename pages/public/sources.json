@@ -1,0 +1,1202 @@
+{
+  "generatedAt": "2026-10-20T07:34:34.246Z",
+  "checks": [
+    {
+      "id": "tsinghua-mim",
+      "url": "https://masters.sem.tsinghua.edu.cn/glssxm11.htm",
+      "checkedAt": "2026-10-20T07:32:20.225Z",
+      "status": "访问受限",
+      "message": "官方页面读取暂时失败，已保留参考资料和上次成功记录。"
+    },
+    {
+      "id": "tsinghua-mf",
+      "url": "https://masters.sem.tsinghua.edu.cn/jrss1/xfyjiangxu.htm",
+      "checkedAt": "2026-10-20T07:32:20.258Z",
+      "status": "访问受限",
+      "message": "官方页面读取暂时失败，已保留参考资料和上次成功记录。"
+    },
+    {
+      "id": "saif-mf",
+      "url": "https://mf.saif.sjtu.edu.cn/show-138-779.html",
+      "checkedAt": "2026-10-20T07:32:19.626Z",
+      "status": "访问受限",
+      "message": "页面未返回可读招生内容，保留参考资料。"
+    },
+    {
+      "id": "pku-nsd",
+      "url": "https://nsd.pku.edu.cn/",
+      "checkedAt": "2026-10-20T07:32:20.889Z",
+      "status": "访问受限",
+      "message": "官方页面读取暂时失败，已保留参考资料和上次成功记录。"
+    },
+    {
+      "id": "cuhk-mphil",
+      "url": "https://admission.econ.cuhk.edu.hk/pg/mphil-economics/",
+      "checkedAt": "2026-10-20T07:32:20.405Z",
+      "status": "内容变化待复核",
+      "message": "招生或资助相关内容有变化；费用和截止日期需打开官网复核。",
+      "lastSuccess": "2026-10-20T07:32:20.405Z",
+      "hash": "1f7e1b38d7398a443b40da4cf3770d79c47bfac0c42d2c900e29c8be525eb5d2",
+      "changed": true,
+      "tuition": 94000
+    },
+    {
+      "id": "cuhk-msc",
+      "url": "https://admission.econ.cuhk.edu.hk/pg/master-economics/",
+      "checkedAt": "2026-10-20T07:32:20.623Z",
+      "status": "页面已读取",
+      "message": "已提取参考学费；申请条件与目标年份仍需核验。",
+      "lastSuccess": "2026-10-20T07:32:20.623Z",
+      "hash": "a66a5872d20c90d740186bc312b0870df169e9b60900301adebcd262e2356827",
+      "changed": false,
+      "tuition": 358000
+    },
+    {
+      "id": "hkust-phd",
+      "url": "https://fina.hkust.edu.hk/programs/phd/financial-aid",
+      "checkedAt": "2026-10-20T07:32:21.116Z",
+      "status": "访问受限",
+      "message": "暂时无法读取官方来源，保留上次资料。"
+    },
+    {
+      "id": "stanford-phd",
+      "url": "https://www.gsb.stanford.edu/programs/phd/financial-aid",
+      "checkedAt": "2026-10-20T07:32:22.723Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:32:22.723Z",
+      "hash": "bb31caa6c916d8a116b090d6880ee969f539eebcc60b5b98a5c5aacf230d2d0e",
+      "changed": false
+    },
+    {
+      "id": "baruch-mfe",
+      "url": "https://mfe.baruch.cuny.edu/",
+      "checkedAt": "2026-10-20T07:32:24.271Z",
+      "status": "访问受限",
+      "message": "暂时无法读取官方来源，保留上次资料。"
+    },
+    {
+      "id": "oxford-mfe",
+      "url": "https://www.sbs.ox.ac.uk/programmes/degrees/msc-financial-economics",
+      "checkedAt": "2026-10-20T07:32:24.597Z",
+      "status": "访问受限",
+      "message": "官方页面返回 HTTP 403；保留参考资料。"
+    },
+    {
+      "id": "bse-finance",
+      "url": "https://bse.eu/masters-degrees/economics-finance/financial-economics",
+      "checkedAt": "2026-10-20T07:32:25.607Z",
+      "status": "页面已读取",
+      "message": "已提取参考学费；申请条件与目标年份仍需核验。",
+      "lastSuccess": "2026-10-20T07:32:25.607Z",
+      "hash": "e8ce01b7b2d69242003cbe25d209217f71b257caaa50ff255584b019cb9c1892",
+      "changed": false,
+      "tuition": 18500
+    },
+    {
+      "id": "mannheim-econ",
+      "url": "https://www.vwl.uni-mannheim.de/en/academics/msc-economics/faq/",
+      "checkedAt": "2026-10-20T07:32:26.126Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:32:26.126Z",
+      "hash": "3f17cc9c45ad4ee31b98617802e133c8a2df1c97076c3c6ccc9481ce8d5191f3",
+      "changed": false
+    },
+    {
+      "id": "nus-finance",
+      "url": "https://bschool.nus.edu.sg/finance/phd/phd-how-to-apply/",
+      "checkedAt": "2026-10-20T07:32:27.215Z",
+      "status": "访问受限",
+      "message": "页面未返回可读招生内容，保留参考资料。"
+    },
+    {
+      "id": "pku-gsm-finance",
+      "url": "https://www.gsm.pku.edu.cn/__local/D/91/1A/58DDA27E9594E6CFDC313A901D8_496D5812_1BDAF.pdf",
+      "checkedAt": "2026-10-20T07:32:29.610Z",
+      "status": "访问受限",
+      "message": "暂时无法读取官方来源，保留上次资料。"
+    },
+    {
+      "id": "pku-gsm-innovation",
+      "url": "https://www.gsm.pku.edu.cn/__local/D/91/1A/58DDA27E9594E6CFDC313A901D8_496D5812_1BDAF.pdf",
+      "checkedAt": "2026-10-20T07:32:29.703Z",
+      "status": "访问受限",
+      "message": "暂时无法读取官方来源，保留上次资料。"
+    },
+    {
+      "id": "pku-gsm-ba",
+      "url": "https://www.gsm.pku.edu.cn/ba/zsxx/cjwt.htm",
+      "checkedAt": "2026-10-20T07:32:29.813Z",
+      "status": "访问受限",
+      "message": "暂时无法读取官方来源，保留上次资料。"
+    },
+    {
+      "id": "pku-gsm-international",
+      "url": "https://www.gsm.pku.edu.cn/__local/D/91/1A/58DDA27E9594E6CFDC313A901D8_496D5812_1BDAF.pdf",
+      "checkedAt": "2026-10-20T07:32:29.940Z",
+      "status": "访问受限",
+      "message": "暂时无法读取官方来源，保留上次资料。"
+    },
+    {
+      "id": "pku-econ-finance",
+      "url": "https://www.econ.pku.edu.cn/jxxm/zsxxfb_20211202144549787517/cbcf209f9c5d4757bd4e5fb4f62d4bed.htm",
+      "checkedAt": "2026-10-20T07:32:30.062Z",
+      "status": "访问受限",
+      "message": "暂时无法读取官方来源，保留上次资料。"
+    },
+    {
+      "id": "pku-econ-insurance",
+      "url": "https://www.econ.pku.edu.cn/jxxm/zsxxfb_20211202144549787517/cbcf209f9c5d4757bd4e5fb4f62d4bed.htm",
+      "checkedAt": "2026-10-20T07:32:30.179Z",
+      "status": "访问受限",
+      "message": "暂时无法读取官方来源，保留上次资料。"
+    },
+    {
+      "id": "pku-econ-tax",
+      "url": "https://www.econ.pku.edu.cn/jxxm/zsxxfb_20211202144549787517/cbcf209f9c5d4757bd4e5fb4f62d4bed.htm",
+      "checkedAt": "2026-10-20T07:32:30.296Z",
+      "status": "访问受限",
+      "message": "暂时无法读取官方来源，保留上次资料。"
+    },
+    {
+      "id": "pku-econ-business",
+      "url": "https://www.econ.pku.edu.cn/jxxm/zsxxfb_20211202144549787517/cbcf209f9c5d4757bd4e5fb4f62d4bed.htm",
+      "checkedAt": "2026-10-20T07:32:30.387Z",
+      "status": "访问受限",
+      "message": "暂时无法读取官方来源，保留上次资料。"
+    },
+    {
+      "id": "pku-econ-digital",
+      "url": "https://www.econ.pku.edu.cn/jxxm/zsxxfb_20211202144549787517/cbcf209f9c5d4757bd4e5fb4f62d4bed.htm",
+      "checkedAt": "2026-10-20T07:32:30.490Z",
+      "status": "访问受限",
+      "message": "暂时无法读取官方来源，保留上次资料。"
+    },
+    {
+      "id": "pku-phbs-quant",
+      "url": "https://admission.pku.edu.cn/zsxx/sszs/zyml/2026/yx/zsml_ss_yx_00047.pdf",
+      "checkedAt": "2026-10-20T07:32:31.062Z",
+      "status": "访问受限",
+      "message": "官方页面读取暂时失败，已保留参考资料和上次成功记录。"
+    },
+    {
+      "id": "pku-phbs-management",
+      "url": "https://admission.pku.edu.cn/zsxx/sszs/zyml/2026/yx/zsml_ss_yx_00047.pdf",
+      "checkedAt": "2026-10-20T07:32:31.238Z",
+      "status": "访问受限",
+      "message": "官方页面读取暂时失败，已保留参考资料和上次成功记录。"
+    },
+    {
+      "id": "pku-phbs-investment",
+      "url": "https://admission.pku.edu.cn/zsxx/sszs/zyml/2026/yx/zsml_ss_yx_00047.pdf",
+      "checkedAt": "2026-10-20T07:32:31.725Z",
+      "status": "访问受限",
+      "message": "官方页面读取暂时失败，已保留参考资料和上次成功记录。"
+    },
+    {
+      "id": "pku-phbs-international",
+      "url": "https://admission.pku.edu.cn/zsxx/sszs/zyml/2026/yx/zsml_ss_yx_00047.pdf",
+      "checkedAt": "2026-10-20T07:32:31.798Z",
+      "status": "访问受限",
+      "message": "官方页面读取暂时失败，已保留参考资料和上次成功记录。"
+    },
+    {
+      "id": "pku-phbs-econ",
+      "url": "https://admission.pku.edu.cn/zsxx/sszs/zyml/2026/yx/zsml_ss_yx_00047.pdf",
+      "checkedAt": "2026-10-20T07:32:31.935Z",
+      "status": "访问受限",
+      "message": "官方页面读取暂时失败，已保留参考资料和上次成功记录。"
+    },
+    {
+      "id": "pku-phbs-business",
+      "url": "https://admission.pku.edu.cn/zsxx/sszs/zyml/2026/yx/zsml_ss_yx_00047.pdf",
+      "checkedAt": "2026-10-20T07:32:32.383Z",
+      "status": "访问受限",
+      "message": "官方页面读取暂时失败，已保留参考资料和上次成功记录。"
+    },
+    {
+      "id": "pku-math-finance",
+      "url": "https://admission.pku.edu.cn/docs/20251009101959431969.pdf",
+      "checkedAt": "2026-10-20T07:32:31.942Z",
+      "status": "文件已读取",
+      "message": "已检查官方 PDF 文件；学费、资格和当届截止日期仍需人工核验。",
+      "lastSuccess": "2026-10-20T07:32:31.942Z",
+      "hash": "6293782d98028b24a717729347da5f573545f7d942e59eaad1165d5ed0526cbb",
+      "changed": false
+    },
+    {
+      "id": "pku-nsd-phd",
+      "url": "https://www.nsd.pku.edu.cn/jxxm/yjs/zszl/tzgg2/51chnsd542501.htm",
+      "checkedAt": "2026-10-20T07:32:32.572Z",
+      "status": "访问受限",
+      "message": "官方页面读取暂时失败，已保留参考资料和上次成功记录。"
+    },
+    {
+      "id": "pku-gsm-phd",
+      "url": "https://www.gsm.pku.edu.cn/finance/xsyj1/bssxm.htm",
+      "checkedAt": "2026-10-20T07:32:32.230Z",
+      "status": "访问受限",
+      "message": "暂时无法读取官方来源，保留上次资料。"
+    },
+    {
+      "id": "pku-econ-phd",
+      "url": "https://www.econ.pku.edu.cn/jxxm/zsxxfb_20211202144549787517/cbcf209f9c5d4757bd4e5fb4f62d4bed.htm",
+      "checkedAt": "2026-10-20T07:32:32.434Z",
+      "status": "访问受限",
+      "message": "暂时无法读取官方来源，保留上次资料。"
+    },
+    {
+      "id": "hku-mfin",
+      "url": "https://masters.hkubs.hku.hk/our-programmes/master-of-finance/",
+      "checkedAt": "2026-10-20T07:32:32.514Z",
+      "status": "结构变化",
+      "message": "页面过大，未自动解析。",
+      "changed": true
+    },
+    {
+      "id": "hkust-mfin",
+      "url": "https://mfin.hkust.edu.hk/admissions/program-fee-and-expenses",
+      "checkedAt": "2026-10-20T07:32:32.618Z",
+      "status": "访问受限",
+      "message": "暂时无法读取官方来源，保留上次资料。"
+    },
+    {
+      "id": "hkust-fintech",
+      "url": "https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-fintech",
+      "checkedAt": "2026-10-20T07:32:32.757Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:32:32.757Z",
+      "hash": "af345a8222d78eacdf33cc45e6513098564f191de51e0be2ff387bc39699f770",
+      "changed": false
+    },
+    {
+      "id": "nus-msc-finance",
+      "url": "https://mscfin.nus.edu.sg/fees-finances/programme-fees/",
+      "checkedAt": "2026-10-20T07:32:34.715Z",
+      "status": "访问受限",
+      "message": "页面未返回可读招生内容，保留参考资料。"
+    },
+    {
+      "id": "nus-quant",
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-science/graduate-education/coursework-programmes/curriculum-structure/",
+      "checkedAt": "2026-10-20T07:32:35.554Z",
+      "status": "访问受限",
+      "message": "页面未返回可读招生内容，保留参考资料。"
+    },
+    {
+      "id": "ntu-mfe",
+      "url": "https://www.ntu.edu.sg/engineering/coe-programmes/graduate/coe-programme-detail/master-of-science-in-financial-engineering2",
+      "checkedAt": "2026-10-20T07:32:36.275Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:32:36.275Z",
+      "hash": "50c025e66405edc817d0d681645792f7b701551e8c7bc543833920fa166a591c",
+      "changed": false
+    },
+    {
+      "id": "smu-maf",
+      "url": "https://business.smu.edu.sg/disciplines/finance",
+      "checkedAt": "2026-10-20T07:32:37.471Z",
+      "status": "访问受限",
+      "message": "页面未返回可读招生内容，保留参考资料。"
+    },
+    {
+      "id": "mit-mfin",
+      "url": "https://mitsloan.mit.edu/mfin/admissions",
+      "checkedAt": "2026-10-20T07:32:38.940Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:32:38.940Z",
+      "hash": "ddeb41eda076b7599e193d7865649fa083d36a305840bfb0e0b8db38929b95c9",
+      "changed": false
+    },
+    {
+      "id": "princeton-mfin",
+      "url": "https://bcf.princeton.edu/academic-programs/master-in-finance/apply-for-the-master-in-finance-program/",
+      "checkedAt": "2026-10-20T07:32:44.566Z",
+      "status": "访问受限",
+      "message": "官方页面读取暂时失败，已保留参考资料和上次成功记录。"
+    },
+    {
+      "id": "cmu-mscf",
+      "url": "https://www.cmu.edu/mscf/admissions",
+      "checkedAt": "2026-10-20T07:32:41.695Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:32:41.695Z",
+      "hash": "4bbb63bee41961fd979ad66c141eb9785980775f6cd288d0b64e54555ec7ed1b",
+      "changed": false
+    },
+    {
+      "id": "columbia-msfe",
+      "url": "https://ieor.columbia.edu/masters-admissions-faqs",
+      "checkedAt": "2026-10-20T07:32:41.935Z",
+      "status": "访问受限",
+      "message": "官方页面返回 HTTP 403；保留参考资料。"
+    },
+    {
+      "id": "berkeley-mfe",
+      "url": "https://mfe.haas.berkeley.edu/admissions",
+      "checkedAt": "2026-10-20T07:32:44.293Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:32:44.293Z",
+      "hash": "6524c4685c9538dd1f5d998a5088e2cc5d117c7dbb8afe25e81d7466507c531d",
+      "changed": false
+    },
+    {
+      "id": "nyu-math-finance",
+      "url": "https://math-finance.cims.nyu.edu/academics/",
+      "checkedAt": "2026-10-20T07:32:44.790Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:32:44.790Z",
+      "hash": "d98fadbee443f80b417dc7ae77f5a391c35b8c3be87e7f9b0327fb63066aaba0",
+      "changed": false
+    },
+    {
+      "id": "lse-finance",
+      "url": "https://www.lse.ac.uk/study-at-lse/graduate/msc-finance-full-time",
+      "checkedAt": "2026-10-20T07:32:45.847Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:32:45.847Z",
+      "hash": "d74f95d9e04d5186c5824889cd4959f30cfdb33de63cd1aacb98fa58b6967cb5",
+      "changed": false
+    },
+    {
+      "id": "imperial-finance",
+      "url": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/finance/",
+      "checkedAt": "2026-10-20T07:32:47.935Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:32:47.935Z",
+      "hash": "d8ed433e2c43c8d66094e1e5bd938eff42e4f9fba4ce6054ed2018de4ad29637",
+      "changed": false
+    },
+    {
+      "id": "imperial-rmfe",
+      "url": "https://www.imperial.ac.uk/business-school/masters/risk-management/admissions/",
+      "checkedAt": "2026-10-20T07:32:48.233Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:32:48.233Z",
+      "hash": "0794eda064d2bfe393f56c05a259f80028fe08e1606df1dbb486baef04033f89",
+      "changed": false
+    },
+    {
+      "id": "imperial-math-finance",
+      "url": "https://www.imperial.ac.uk/mathematics/postgraduate/msc/mathematical-finance/prospective-students/",
+      "checkedAt": "2026-10-20T07:32:50.037Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:32:50.037Z",
+      "hash": "7177ee615e7197da3b5a5f22c4728b83739465828b92de2da892525acd504280",
+      "changed": false
+    },
+    {
+      "id": "cambridge-mphil-finance",
+      "url": "https://www.jbs.cam.ac.uk/phd-research-masters/mphil-finance/",
+      "checkedAt": "2026-10-20T07:32:50.542Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:32:50.542Z",
+      "hash": "19dfa15e2ac2af9a24fc00355f671f7d2c0d2918d041ea8a57644c144278ce63",
+      "changed": false
+    },
+    {
+      "id": "lbs-mfa",
+      "url": "https://www.london.edu/masters-degrees/masters-in-financial-analysis/faqs?entry=true",
+      "checkedAt": "2026-10-20T07:32:50.977Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:32:50.977Z",
+      "hash": "4295778f9d7a2ec44fbb35c18b21d2249146e8337933985af539eee9403e6bc0",
+      "changed": false
+    },
+    {
+      "id": "hec-mif",
+      "url": "https://www.hec.edu/en/master-s-programs/master-international-finance",
+      "checkedAt": "2026-10-20T07:32:52.432Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:32:52.432Z",
+      "hash": "62545f2624938f5187429ed28676fe0d3b5628b7db3ed8b2664bd6c482405636",
+      "changed": false
+    },
+    {
+      "id": "bocconi-finance",
+      "url": "https://www.unibocconi.it/en/programs/master-science/finance",
+      "checkedAt": "2026-10-20T07:32:53.867Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:32:53.867Z",
+      "hash": "71a0c2955dbe7553506765071dd22d08ca067cd13d7d76c97d284c150c845057",
+      "changed": false
+    },
+    {
+      "id": "sse-finance",
+      "url": "https://www.hhs.se/education/master/finance/",
+      "checkedAt": "2026-10-20T07:32:55.122Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:32:55.122Z",
+      "hash": "5c09889c128c36e256a34e6b981cda8fa0f771b2ab8cd333ca665ad9e31f99cf",
+      "changed": false
+    },
+    {
+      "id": "stgallen-mbf",
+      "url": "https://www.unisg.ch/en/studying/programmes/master/banking-and-finance-mbf/",
+      "checkedAt": "2026-10-20T07:32:56.538Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:32:56.538Z",
+      "hash": "bb5eca58bef9e20cd61099ff0724d832e1884921cba9e789b6bf929a687dae8d",
+      "changed": false
+    },
+    {
+      "id": "toronto-mfrm",
+      "url": "https://www.rotman.utoronto.ca/programs/specialized-programs/master-of-financial-risk-management/",
+      "checkedAt": "2026-10-20T07:32:59.788Z",
+      "status": "访问受限",
+      "message": "官方页面读取暂时失败，已保留参考资料和上次成功记录。"
+    },
+    {
+      "id": "waterloo-mqf",
+      "url": "https://uwaterloo.ca/statistics-and-actuarial-science/mqf-admission-requirements",
+      "checkedAt": "2026-10-20T07:32:57.879Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:32:57.879Z",
+      "hash": "2b425d7741d22764f62f3a8399938629577dc0a66b919953b544fa9a4bb05e6c",
+      "changed": false
+    },
+    {
+      "id": "melbourne-finance",
+      "url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-finance",
+      "checkedAt": "2026-10-20T07:33:02.188Z",
+      "status": "访问受限",
+      "message": "官方页面读取暂时失败，已保留参考资料和上次成功记录。"
+    },
+    {
+      "id": "unsw-financial-analysis",
+      "url": "https://www.unsw.edu.au/study/postgraduate/master-of-financial-analysis?studentType=international",
+      "checkedAt": "2026-10-20T07:33:02.176Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:02.176Z",
+      "hash": "1de926555c9fa8b5a1df80679ca3bf5d91c9b5e9a1bd70da6280165164bf3662",
+      "changed": false
+    },
+    {
+      "id": "pku-phbs-phd",
+      "url": "https://www.phbs.pku.edu.cn/info/1801/180531.htm",
+      "checkedAt": "2026-10-20T07:33:02.387Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:02.387Z",
+      "hash": "abbe87fba12f2e960642a8c0a970be97ebf54a10ed181c14d673f65700859400",
+      "changed": false
+    },
+    {
+      "id": "saif-phd-finance",
+      "url": "https://phd.saif.sjtu.edu.cn/program-introduction",
+      "checkedAt": "2026-10-20T07:33:03.193Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:03.193Z",
+      "hash": "fb3b58d828bdc8d0a1d443934a48bb801512ee30f4eb7ca96b370c9a85cf0df1",
+      "changed": false
+    },
+    {
+      "id": "hku-phd-finance",
+      "url": "https://www.econ.hku.hk/phd/programmes/fields-of-study",
+      "checkedAt": "2026-10-20T07:33:04.172Z",
+      "status": "访问受限",
+      "message": "官方读取超时，保留上次资料。"
+    },
+    {
+      "id": "hku-phd-econ",
+      "url": "https://www.econ.hku.hk/phd/programmes/fields-of-study",
+      "checkedAt": "2026-10-20T07:33:04.837Z",
+      "status": "访问受限",
+      "message": "官方读取超时，保留上次资料。"
+    },
+    {
+      "id": "cuhk-phd-finance",
+      "url": "https://grad.bschool.cuhk.edu.hk/programmes/finance/",
+      "checkedAt": "2026-10-20T07:33:09.412Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:09.412Z",
+      "hash": "0e0104103dd91bbf9a0be4f4d9ca90250c8a796f2d625c9d77823f9a985178ab",
+      "changed": false
+    },
+    {
+      "id": "cuhk-phd-econ",
+      "url": "https://admission.econ.cuhk.edu.hk/pg/phd-economics/",
+      "checkedAt": "2026-10-20T07:33:10.035Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:10.035Z",
+      "hash": "d0bc68f6389f326d613a42f04fb6575f9e2534a5fecfe2314fb272873bafcb0e",
+      "changed": false
+    },
+    {
+      "id": "ntu-phd-finance",
+      "url": "https://www.ntu.edu.sg/business/admissions/phd-programme/areas-of-specialisations",
+      "checkedAt": "2026-10-20T07:33:10.132Z",
+      "status": "结构变化",
+      "message": "未识别招生或资助内容，需要人工复核。",
+      "changed": true
+    },
+    {
+      "id": "wharton-phd-finance",
+      "url": "https://doctoral.wharton.upenn.edu/finance/",
+      "checkedAt": "2026-10-20T07:33:12.795Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:12.795Z",
+      "hash": "197633e2380adf835f540dbdb782bb88e9df4ddb439abf9cd2f83c3c77a56280",
+      "changed": false
+    },
+    {
+      "id": "wharton-phd-applied-econ",
+      "url": "https://doctoral.wharton.upenn.edu/programs-of-study/applied-economics/",
+      "checkedAt": "2026-10-20T07:33:12.862Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:12.862Z",
+      "hash": "fd3b03b5ccfd50ea7b014ba3e3bbe5015e2ec31973f11bd3ec8cb730786d6464",
+      "changed": false
+    },
+    {
+      "id": "chicago-phd-finance",
+      "url": "https://www.chicagobooth.edu/phd/dissertation-areas/finance",
+      "checkedAt": "2026-10-20T07:33:13.664Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:13.664Z",
+      "hash": "1f773a7a88cb26fb51804e65305b3d3679e7cb98353e869a1fabc6881136816f",
+      "changed": false
+    },
+    {
+      "id": "chicago-phd-financial-econ",
+      "url": "https://www.chicagobooth.edu/phd/dissertation-areas/financial-economics-joint-program",
+      "checkedAt": "2026-10-20T07:33:16.099Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:16.099Z",
+      "hash": "4cd7c235eb3dd25f999498377198a7c0cf4a585fb1b8948bdb58a1ff7ef67a5d",
+      "changed": false
+    },
+    {
+      "id": "mit-sloan-phd-finance",
+      "url": "https://mitsloan.mit.edu/programs/phd/program-overview/finance",
+      "checkedAt": "2026-10-20T07:33:16.915Z",
+      "status": "结构变化",
+      "message": "未识别招生或资助内容，需要人工复核。",
+      "changed": true
+    },
+    {
+      "id": "hbs-phd-business-econ-finance",
+      "url": "https://www.hbs.edu/doctoral/phd-programs/business-economics",
+      "checkedAt": "2026-10-20T07:33:17.287Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:17.287Z",
+      "hash": "ef35e5007996bcdfbe8104f33035fc188d4402caa9360260884e3d67bf98f1a6",
+      "changed": false
+    },
+    {
+      "id": "nyu-stern-phd-finance",
+      "url": "https://www.stern.nyu.edu/programs-admissions/phd/academics/fields-study/specialization-in-finance",
+      "checkedAt": "2026-10-20T07:33:18.435Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:18.435Z",
+      "hash": "903a2e1881d24e4498a42e711e1533abc000164544fc990265427ac56513d1a1",
+      "changed": false
+    },
+    {
+      "id": "columbia-phd-finance",
+      "url": "https://business.columbia.edu/faculty/divisions/finance/phd",
+      "checkedAt": "2026-10-20T07:33:19.789Z",
+      "status": "访问受限",
+      "message": "官方页面返回 HTTP 403；保留参考资料。"
+    },
+    {
+      "id": "berkeley-haas-phd-finance",
+      "url": "https://haas.berkeley.edu/phd/academics/finance/",
+      "checkedAt": "2026-10-20T07:33:21.030Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:21.030Z",
+      "hash": "52a7a9dbf272ef3eaca855263a58b9a5dd72971e9de4e2a6af3d110f9563157a",
+      "changed": false
+    },
+    {
+      "id": "lse-phd-finance",
+      "url": "https://www.lse.ac.uk/study-at-lse/graduate/mresphd-finance",
+      "checkedAt": "2026-10-20T07:33:23.111Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:23.111Z",
+      "hash": "734dab24400940dae854f0b58ba52be2ba4176014c492eb2eeb80e8bffe7b41a",
+      "changed": false
+    },
+    {
+      "id": "lbs-phd-finance",
+      "url": "https://www.london.edu/phd",
+      "checkedAt": "2026-10-20T07:33:23.692Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:23.692Z",
+      "hash": "55b1e769d23591b3585399da964cf8a6f0c7c049874d392c3a53793ef35d84e4",
+      "changed": false
+    },
+    {
+      "id": "oxford-dphil-finance",
+      "url": "https://www.sbs.ox.ac.uk/programmes/degrees/dphil-finance",
+      "checkedAt": "2026-10-20T07:33:24.289Z",
+      "status": "访问受限",
+      "message": "官方页面返回 HTTP 403；保留参考资料。"
+    },
+    {
+      "id": "oxford-dphil-econ",
+      "url": "https://www.ox.ac.uk/admissions/graduate/courses/dphil-economics",
+      "checkedAt": "2026-10-20T07:33:27.796Z",
+      "status": "访问受限",
+      "message": "官方页面读取暂时失败，已保留参考资料和上次成功记录。"
+    },
+    {
+      "id": "cambridge-phd-finance",
+      "url": "https://www.jbs.cam.ac.uk/phd-research-masters/pathways/finance/",
+      "checkedAt": "2026-10-20T07:33:26.872Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:26.872Z",
+      "hash": "3f44fccce3c9f5440a067816bb0c47eed301f29fa68f85ce9b3c35f823d4411c",
+      "changed": false
+    },
+    {
+      "id": "hec-phd-finance",
+      "url": "https://www.hec.edu/en/finance",
+      "checkedAt": "2026-10-20T07:33:27.268Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:27.268Z",
+      "hash": "52e938a3c9a24dd3aca3bf832eb1f5e890817de2b03dbbee80e9dfc855cd1698",
+      "changed": false
+    },
+    {
+      "id": "insead-phd-finance",
+      "url": "https://www.insead.edu/system/files/2025-02/insead-phd-call-for-applications-finance.pdf",
+      "checkedAt": "2026-10-20T07:33:29.667Z",
+      "status": "访问受限",
+      "message": "官方页面读取暂时失败，已保留参考资料和上次成功记录。"
+    },
+    {
+      "id": "bocconi-phd-econ-finance",
+      "url": "https://www.unibocconi.it/en/programs/phd/phd-economics-and-finance",
+      "checkedAt": "2026-10-20T07:33:29.078Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:29.078Z",
+      "hash": "71067d6f45c3771baf781265ff1491734f1537f70cdf0293c1332229d73d7759",
+      "changed": false
+    },
+    {
+      "id": "sse-phd-finance",
+      "url": "https://www.hhs.se/education/phd/finance/finance-application/",
+      "checkedAt": "2026-10-20T07:33:29.817Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:29.817Z",
+      "hash": "d84e43b3f658779494e8bfe33e13f6d36c9fb79692878fe0c6bf1ab5641032a4",
+      "changed": false
+    },
+    {
+      "id": "ubc-phd-finance",
+      "url": "https://org-www.sauder.ubc.ca/programs/finance-phd",
+      "checkedAt": "2026-10-20T07:33:30.157Z",
+      "status": "访问受限",
+      "message": "官方页面返回 HTTP 403；保留参考资料。"
+    },
+    {
+      "id": "toronto-phd-finance",
+      "url": "https://www.rotman.utoronto.ca/programs/phd-program/major-areas-of-study/",
+      "checkedAt": "2026-10-20T07:33:34.187Z",
+      "status": "访问受限",
+      "message": "官方页面读取暂时失败，已保留参考资料和上次成功记录。"
+    },
+    {
+      "id": "melbourne-doctoral-finance",
+      "url": "https://study.unimelb.edu.au/find/courses/graduate/doctoral-program-in-finance/",
+      "checkedAt": "2026-10-20T07:33:34.884Z",
+      "status": "访问受限",
+      "message": "官方页面读取暂时失败，已保留参考资料和上次成功记录。"
+    },
+    {
+      "id": "lse-msc-economics",
+      "url": "https://www.lse.ac.uk/study-at-lse/graduate/msc-economics",
+      "checkedAt": "2026-10-20T07:33:34.332Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:34.332Z",
+      "hash": "fab4bed091609cc5b7e2ef73c57c6a1fcbc4bc5d8cf20ae5f9f9a85f69ad7fd9",
+      "changed": false
+    },
+    {
+      "id": "lse-msc-eme",
+      "url": "https://www.lse.ac.uk/study-at-lse/graduate/msc-econometrics-and-mathematical-economics",
+      "checkedAt": "2026-10-20T07:33:34.325Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:34.325Z",
+      "hash": "56736805e16f303c56fa82e50748f7dc0f78a5095ca1ca07e4119afa0e06fc77",
+      "changed": false
+    },
+    {
+      "id": "lse-msc-finance-econ",
+      "url": "https://www.lse.ac.uk/study-at-lse/graduate/msc-finance-and-economics",
+      "checkedAt": "2026-10-20T07:33:35.072Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:35.072Z",
+      "hash": "1ff5742d3c46f90a7603ff3983f7ec51e83646c643bf021e5f2c1203d101dbb6",
+      "changed": false
+    },
+    {
+      "id": "lse-msc-accounting-finance",
+      "url": "https://www.lse.ac.uk/study-at-lse/graduate/msc-accounting-and-finance",
+      "checkedAt": "2026-10-20T07:33:38.186Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:38.186Z",
+      "hash": "cfacfe2d25c36d5644fb050c554da807c01d0b4116b67bacfdb64c01afc9b0b4",
+      "changed": false
+    },
+    {
+      "id": "lse-msc-financial-math",
+      "url": "https://www.lse.ac.uk/study-at-lse/graduate/msc-financial-mathematics",
+      "checkedAt": "2026-10-20T07:33:38.470Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:38.470Z",
+      "hash": "d3dd3d87b655f81ab4ae1daebaa5458641d85935f0c81236977aef198cf15b76",
+      "changed": false
+    },
+    {
+      "id": "lse-phd-economics",
+      "url": "https://www.lse.ac.uk/study-at-lse/graduate/mresphd-economics",
+      "checkedAt": "2026-10-20T07:33:38.941Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:38.941Z",
+      "hash": "46a99ec191a0ee52f2e3e914a924091034b6b06a31c871391a5f1e9ae4c4ed92",
+      "changed": false
+    },
+    {
+      "id": "lse-phd-accounting-econ",
+      "url": "https://www.lse.ac.uk/study-at-lse/graduate/mresphd-accounting-economics-of-accounting",
+      "checkedAt": "2026-10-20T07:33:42.038Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:42.038Z",
+      "hash": "80314ba97dd6c526f2532c028fe292241d2891864c2ca9b587ee1b8b615ece47",
+      "changed": false
+    },
+    {
+      "id": "lse-phd-economics-management",
+      "url": "https://www.lse.ac.uk/study-at-lse/graduate/mresphd-economics-and-management",
+      "checkedAt": "2026-10-20T07:33:42.327Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:42.327Z",
+      "hash": "e3310c4f332f6191e29e6f52a895e882b17ec365ccad767b8bc4e579fc30e3a0",
+      "changed": false
+    },
+    {
+      "id": "bse-economics",
+      "url": "https://bse.eu/masters-degrees/economics-finance/economics",
+      "checkedAt": "2026-10-20T07:33:42.798Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:42.798Z",
+      "hash": "892d94f97faa9105dca8eababea0b391ee2874537ed70eb977d237bff5171a80",
+      "changed": false
+    },
+    {
+      "id": "bse-macro-financial-markets",
+      "url": "https://bse.eu/masters-degrees/specialized-economic-analysis/macroeconomic-policy-and-financial-markets",
+      "checkedAt": "2026-10-20T07:33:45.900Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:45.900Z",
+      "hash": "c47cdc69b4a5f341127cf0b4083d3fc96788add7ee1a1f15b050db29975fa012",
+      "changed": false
+    },
+    {
+      "id": "bse-data-decision",
+      "url": "https://bse.eu/masters-degrees/data-science/data-science-decision-making",
+      "checkedAt": "2026-10-20T07:33:46.290Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:46.290Z",
+      "hash": "b83bf1adef4fe762750b8e5bfc73cf1d5951b56bfb9fbb733c3975d380ec823b",
+      "changed": false
+    },
+    {
+      "id": "bse-trade-finance-development",
+      "url": "https://bse.eu/masters-degrees/specialized-economic-analysis/international-trade-finance-and-development",
+      "checkedAt": "2026-10-20T07:33:46.927Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:46.927Z",
+      "hash": "d13f80be740188dc46f57d1f1ad8e5c00db76a28f16ab69cf664b8e725387aa2",
+      "changed": false
+    },
+    {
+      "id": "bse-public-policy-econ",
+      "url": "https://bse.eu/masters-degrees/specialized-economic-analysis/economics-public-policy",
+      "checkedAt": "2026-10-20T07:33:50.037Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:50.037Z",
+      "hash": "feaafecdca4b370b150a59ddd093ccfe775ee46d6b759602dbe4480ac63facdf",
+      "changed": false
+    },
+    {
+      "id": "bse-energy-climate-econ",
+      "url": "https://bse.eu/masters-degrees/specialized-economic-analysis/economics-energy-climate-change-sustainability",
+      "checkedAt": "2026-10-20T07:33:50.140Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:50.140Z",
+      "hash": "988a73cb8dbfb9166c5486fd37031fc49ab642d0900072a21ab4934de7672627",
+      "changed": false
+    },
+    {
+      "id": "bonn-phd-economics",
+      "url": "https://www.econ.uni-bonn.de/bgse/en/doctoral-program",
+      "checkedAt": "2026-10-20T07:33:50.601Z",
+      "status": "访问受限",
+      "message": "官方读取超时，保留上次资料。"
+    },
+    {
+      "id": "mannheim-phd-economics",
+      "url": "https://www.uni-mannheim.de/gess/apply/admission-requirements/for-cdse/",
+      "checkedAt": "2026-10-20T07:33:53.919Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:53.919Z",
+      "hash": "fd78ee71a6408d60c330ae76cbae1c83209a225ea58efc8657ff38e57b3711e5",
+      "changed": false
+    },
+    {
+      "id": "sse-msc-economics",
+      "url": "https://www.hhs.se/education/master/economics/",
+      "checkedAt": "2026-10-20T07:33:54.223Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:54.223Z",
+      "hash": "2d353e22bc92faccf2c0080dfe038533347b57c9699e51d9c5a9bada84acf35b",
+      "changed": false
+    },
+    {
+      "id": "sse-phd-economics",
+      "url": "https://www.hhs.se/education/phd/economics/",
+      "checkedAt": "2026-10-20T07:33:55.789Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:55.789Z",
+      "hash": "bc78d3eee894c651159a1a25ce63cfa26d7eebd897436ef65b516f292a9ea7d1",
+      "changed": false
+    },
+    {
+      "id": "duke-ma-econ",
+      "url": "https://econ.duke.edu/masters-programs/degree-programs/ma-econ",
+      "checkedAt": "2026-10-20T07:33:56.902Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:56.902Z",
+      "hash": "dc4f4fbec4654170dd21469dbaff6385cef4c95a0d689224548b12fd5edb79c4",
+      "changed": false
+    },
+    {
+      "id": "duke-ma-political-econ",
+      "url": "https://econ.duke.edu/masters-programs/degree-programs/mape",
+      "checkedAt": "2026-10-20T07:33:57.114Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:57.114Z",
+      "hash": "7a1f762c565edb283d41b97db81637b1466875fc76ace5e091bab9be46861ab3",
+      "changed": false
+    },
+    {
+      "id": "duke-ms-econ-computation",
+      "url": "https://econ.duke.edu/masters-programs/degree-programs/msec",
+      "checkedAt": "2026-10-20T07:33:58.068Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:33:58.068Z",
+      "hash": "2f53ec6aed2f27eb8007c57968cf6418701ef90aeb7b031e197fa3669ea37c0b",
+      "changed": false
+    },
+    {
+      "id": "columbia-ma-econ",
+      "url": "https://econ.columbia.edu/masters/",
+      "checkedAt": "2026-10-20T07:34:00.082Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:34:00.082Z",
+      "hash": "526d812249bb5265de71ef3899cab3ee703b622965b04a7b104c228b9bf5c3f2",
+      "changed": false
+    },
+    {
+      "id": "mit-dedp",
+      "url": "https://economics.mit.edu/academic-programs/masters-programs",
+      "checkedAt": "2026-10-20T07:34:01.063Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:34:01.063Z",
+      "hash": "3f4f9442b0ca3852974fa777be110606f0017bc80ebc5a6b21cc150ac48c2f5d",
+      "changed": false
+    },
+    {
+      "id": "yale-ma-ide",
+      "url": "https://economics.yale.edu/international-and-development-economics",
+      "checkedAt": "2026-10-20T07:34:01.079Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:34:01.079Z",
+      "hash": "95cdc059c6898cb219f147a497c20afb5af596479c0ade48b513916fef8a0da0",
+      "changed": false
+    },
+    {
+      "id": "ubc-ma-econ",
+      "url": "https://economics.ubc.ca/graduate/masters-program/",
+      "checkedAt": "2026-10-20T07:34:04.501Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:34:04.501Z",
+      "hash": "9b77fe7d90f1745c98a5bacda99568ea7cf82dad221ea4dd7974ea6c069caf59",
+      "changed": false
+    },
+    {
+      "id": "ubc-mfre",
+      "url": "https://mfre.landfood.ubc.ca/apply-to-mfre/",
+      "checkedAt": "2026-10-20T07:34:04.543Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:34:04.543Z",
+      "hash": "783f70fbd05d0dceb04dfa1d65dae59cafedb422f78dd50ad371788bc73a9203",
+      "changed": false
+    },
+    {
+      "id": "mit-phd-econ",
+      "url": "https://economics.mit.edu/academic-programs/phd-program",
+      "checkedAt": "2026-10-20T07:34:06.391Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:34:06.391Z",
+      "hash": "2fdf4965b05580b9ccf15a6131b9e8e11cb48eb26f7826ce701c12ea117bd7f1",
+      "changed": false
+    },
+    {
+      "id": "harvard-phd-econ",
+      "url": "https://www.economics.harvard.edu/graduate",
+      "checkedAt": "2026-10-20T07:34:06.902Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:34:06.902Z",
+      "hash": "082a264077fca2729c7f944ea4521430ab57ac0658dc6c77e8e2ce740435b9af",
+      "changed": false
+    },
+    {
+      "id": "princeton-phd-econ",
+      "url": "https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/economics",
+      "checkedAt": "2026-10-20T07:34:08.861Z",
+      "status": "访问受限",
+      "message": "官方页面返回 HTTP 403；保留参考资料。"
+    },
+    {
+      "id": "yale-phd-econ",
+      "url": "https://economics.yale.edu/graduate/application-info",
+      "checkedAt": "2026-10-20T07:34:09.655Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:34:09.655Z",
+      "hash": "2f4175d51faeb7e5bac528799ddb15172c01ea5402fca86cac648009a59f1def",
+      "changed": false
+    },
+    {
+      "id": "duke-phd-econ",
+      "url": "https://econ.duke.edu/phd-program/prospective-students/application-instructions",
+      "checkedAt": "2026-10-20T07:34:10.591Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:34:10.591Z",
+      "hash": "0993d3fb0fb360f2eda098ad86556ebc94338b7a97555039e96b4e50a7194648",
+      "changed": false
+    },
+    {
+      "id": "northwestern-phd-econ",
+      "url": "https://economics.northwestern.edu/graduate/prospective/admissions.html",
+      "checkedAt": "2026-10-20T07:34:11.603Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:34:11.603Z",
+      "hash": "80df50239ae629e851d91c964b2c70f3ec8adacdc3df3bebe378ea4afc200e7c",
+      "changed": false
+    },
+    {
+      "id": "ubc-phd-econ",
+      "url": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-economics",
+      "checkedAt": "2026-10-20T07:34:13.570Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:34:13.570Z",
+      "hash": "99c673acd3f15358fc0a8e94c380c8fd99acea1fba3a26d9facecc88a17cca82",
+      "changed": false
+    },
+    {
+      "id": "hku-mecon",
+      "url": "https://masters.hkubs.hku.hk/our-programmes/master-of-economics/",
+      "checkedAt": "2026-10-20T07:34:14.063Z",
+      "status": "结构变化",
+      "message": "页面过大，未自动解析。",
+      "changed": true
+    },
+    {
+      "id": "hku-accounting",
+      "url": "https://masters.hkubs.hku.hk/our-programmes/master-of-accounting/",
+      "checkedAt": "2026-10-20T07:34:16.840Z",
+      "status": "结构变化",
+      "message": "页面过大，未自动解析。",
+      "changed": true
+    },
+    {
+      "id": "hku-mfintech",
+      "url": "https://masters.hkubs.hku.hk/our-programmes/master-of-finance-in-financial-technology/",
+      "checkedAt": "2026-10-20T07:34:17.700Z",
+      "status": "结构变化",
+      "message": "页面过大，未自动解析。",
+      "changed": true
+    },
+    {
+      "id": "hku-business-analytics",
+      "url": "https://masters.hkubs.hku.hk/our-programmes/master-of-science-in-business-analytics/",
+      "checkedAt": "2026-10-20T07:34:17.766Z",
+      "status": "结构变化",
+      "message": "页面过大，未自动解析。",
+      "changed": true
+    },
+    {
+      "id": "hku-sustainable-finance",
+      "url": "https://masters.hkubs.hku.hk/our-programmes/master-of-sustainable-accounting-and-finance/",
+      "checkedAt": "2026-10-20T07:34:21.105Z",
+      "status": "结构变化",
+      "message": "页面过大，未自动解析。",
+      "changed": true
+    },
+    {
+      "id": "hkust-msc-econ",
+      "url": "https://mscecon.hkust.edu.hk/",
+      "checkedAt": "2026-10-20T07:34:21.816Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:34:21.816Z",
+      "hash": "f6f42fa635e0359363eb9c7ab21afba34e07624b39173df0c1f27560aec86f94",
+      "changed": false
+    },
+    {
+      "id": "nus-master-economics",
+      "url": "https://fass.nus.edu.sg/ecs/master-of-economics/",
+      "checkedAt": "2026-10-20T07:34:21.948Z",
+      "status": "访问受限",
+      "message": "页面未返回可读招生内容，保留参考资料。"
+    },
+    {
+      "id": "ntu-applied-econ",
+      "url": "https://www.ntu.edu.sg/education/graduate-programme/master-of-applied-economics",
+      "checkedAt": "2026-10-20T07:34:24.440Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:34:24.440Z",
+      "hash": "e84b93c04625e8c78a5156f43caf57d402e2decf91ea8ce81192dc4a9efe1fe2",
+      "changed": false
+    },
+    {
+      "id": "smu-msc-economics",
+      "url": "https://masters.smu.edu.sg/programme/master-in-economics",
+      "checkedAt": "2026-10-20T07:34:24.626Z",
+      "status": "访问受限",
+      "message": "页面未返回可读招生内容，保留参考资料。"
+    },
+    {
+      "id": "anu-applied-economics",
+      "url": "https://programsandcourses.anu.edu.au/2027/program/MAPEC",
+      "checkedAt": "2026-10-20T07:34:24.705Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:34:24.705Z",
+      "hash": "1109132c486036ff95f0a9136efb3dda3ff07abba6919001712c124c10b14940",
+      "changed": false
+    },
+    {
+      "id": "kyoto-ea-master",
+      "url": "https://www.econ.kyoto-u.ac.jp/kueac/application/masters/",
+      "checkedAt": "2026-10-20T07:34:26.928Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:34:26.928Z",
+      "hash": "24e32887e925f666958db117aa79f584707e6bb54b7bdc70e666b69b74292f00",
+      "changed": false
+    },
+    {
+      "id": "kyoto-ea-phd",
+      "url": "https://www.econ.kyoto-u.ac.jp/kueac/application/doctoral/",
+      "checkedAt": "2026-10-20T07:34:27.065Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:34:27.065Z",
+      "hash": "53901bd0bd58dc1a534aa0b030d0e7f52416e77980b632fe31a8c2e0709f1271",
+      "changed": false
+    },
+    {
+      "id": "smu-phd-economics",
+      "url": "https://economics.smu.edu.sg/phd-economics",
+      "checkedAt": "2026-10-20T07:34:28.052Z",
+      "status": "访问受限",
+      "message": "页面未返回可读招生内容，保留参考资料。"
+    },
+    {
+      "id": "smu-phd-finance",
+      "url": "https://graduatestudies.smu.edu.sg/phd/admissions/requirements",
+      "checkedAt": "2026-10-20T07:34:31.592Z",
+      "status": "访问受限",
+      "message": "页面未返回可读招生内容，保留参考资料。"
+    },
+    {
+      "id": "hkust-phd-economics",
+      "url": "https://econ.hkust.edu.hk/node/459",
+      "checkedAt": "2026-10-20T07:34:31.865Z",
+      "status": "访问受限",
+      "message": "暂时无法读取官方来源，保留上次资料。"
+    },
+    {
+      "id": "ntu-phd-economics",
+      "url": "https://www.ntu.edu.sg/sss/admissions/graduate-education/graduate-research/economics",
+      "checkedAt": "2026-10-20T07:34:31.876Z",
+      "status": "页面已读取",
+      "message": "已读取官方页面；本来源尚未自动解析完整费用和当届截止日期。",
+      "lastSuccess": "2026-10-20T07:34:31.876Z",
+      "hash": "7910df084dee29567c9be07df167d5e92cbaa4dc72bfdb39c3577794b36f1c1d",
+      "changed": false
+    }
+  ]
+}
