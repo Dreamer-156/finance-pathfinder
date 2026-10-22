@@ -27,7 +27,7 @@ jobs:
       - name: Check types
         run: node node_modules/typescript/bin/tsc --noEmit
       - name: Check application behavior
-        run: node --test test/screening.test.mjs test/program-views.test.mjs test/program-groups.test.mjs test/overseas-catalog.test.mjs test/source-worker.test.mjs test/browser-state.test.mjs test/program-search.test.mjs
+        run: node --test test/screening.test.mjs test/program-views.test.mjs test/program-groups.test.mjs test/overseas-catalog.test.mjs test/catalog-expansion.test.mjs test/source-worker.test.mjs test/browser-state.test.mjs test/program-search.test.mjs
       - name: Check public official sources
         run: npm run check:pages-sources
       - name: Build static website

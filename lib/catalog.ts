@@ -1,6 +1,7 @@
 import {expandedPrograms} from './catalog-expanded.ts';
 import {phdPrograms} from './catalog-phd.ts';
 import {overseasPrograms} from './catalog-overseas.ts';
+import {octoberExpansionPrograms} from './catalog-expansion-20261022.ts';
 import {enrichProgram} from './program-details.ts';
 export type FeeFact={amount:number;currency:string;basis:'每年'|'首年'|'全项目'|'每学期'|'每学分';year:string;note:string;url:string;waived?:boolean};
 export type ProgramDetails={fee?:FeeFact;additionalFees?:FeeFact[];tuitionPolicy?:string;fundingTerm?:string;stipend?:string;exam?:string;materials?:string[];research?:string[];careers?:{paths:string[];basis:'官网披露'|'培养定位推断';note:string;url?:string}};
@@ -25,7 +26,8 @@ const rawPrograms:Program[]=[
  {...base,id:'nus-finance',phdEntry:'bachelor',entryNote:'当前官方要求入学前持认可院校至少本科学位并有优秀成绩；无需先有硕士，但须有金融研究兴趣与研究准备。',school:'新加坡国立大学',name:'金融学 PhD',english:'PhD in Finance',region:'新加坡',degree:'博士',field:'金融',duration:'以当年培养与资助信为准',route:'research',funding:'项目称提供全额奖学金',fundingType:'package',aidNote:'金融系申请页称覆盖学费和生活费；商学院资金页对年限、进展与第五年支持另有说明，须合并核对。',deadline:'2026-12-15T23:59:00+08:00',intake:2027,deadlineNote:'2027 年 8 月入学；时刻未明确，展示日期供准备参考',requirements:['认可院校本科学位与优秀成绩','研究计划、两封教授推荐和研究经历','英语证明；GMAT/GRE 当前可选，未来待核验'],reason:'亚洲金融研究与资助路线备选；研究适配比名校标签更重要。',url:'https://bschool.nus.edu.sg/finance/phd/phd-how-to-apply/',extra:'https://bschool.nus.edu.sg/phd/financial-support/',accent:'gold'},
  ...expandedPrograms,
  ...phdPrograms,
- ...overseasPrograms
+ ...overseasPrograms,
+ ...octoberExpansionPrograms
 ];
 export const programs:Program[]=rawPrograms.map(enrichProgram);
 export type SourceCheck={id:string;status:string;checkedAt:string;lastSuccess?:string;hash?:string;changed?:boolean;message:string;tuition?:number;deadline?:string;intake?:number;url:string};
