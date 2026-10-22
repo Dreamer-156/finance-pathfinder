@@ -15,6 +15,7 @@ test('October expansion includes sourced fees, eligible entry routes and careers
   assert(f.year&&f.note&&new URL(f.url).protocol==='https:',p.id);
   assert.equal(p.tuition,f.amount,p.id);
   assert.equal(p.currency,f.currency,p.id);
+  assert.notEqual(f.waived,true,p.id+' positive prices describe fees before conditional aid');
   assert(rates[f.currency]>0,p.id);
   assert(p.requirements.length>=2&&p.aidNote&&p.details.careers.paths.length>=2,p.id);
   if(p.degree==='博士')assert(['bachelor','master'].includes(p.phdEntry)&&p.entryNote,p.id);

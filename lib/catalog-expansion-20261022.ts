@@ -897,8 +897,7 @@ export const octoberExpansionPrograms:Program[]=[
         "basis": "每年",
         "year": "2026/27",
         "note": "博士公布原价；符合奖助条件时由fellowship/assistantship覆盖，不表示学生自付此数。",
-        "url": "https://bursar.cornell.edu/students-parents/tuition-rates-and-fees",
-        "waived": true
+        "url": "https://bursar.cornell.edu/students-parents/tuition-rates-and-fees"
       },
       "fundingTerm": "经济系称资助通常在学业表现合格下保障至第6年春季，含学年学费、津贴和医疗保险；后续通常承担RA/TA。2026/27大学标准最低津贴9个月US$36,684；13周夏季助教助研US$12,228，是否及多久获得夏季职位由院系/资助方决定，不能自动拼为全年保证收入。最低标准不是税后净到手。",
       "careers": {
@@ -967,8 +966,7 @@ export const octoberExpansionPrograms:Program[]=[
         "basis": "每年",
         "year": "2026/27",
         "note": "博士公布原价；录取资助包提供full tuition waiver，非零标价。",
-        "url": "https://bursar.cornell.edu/students-parents/tuition-rates-and-fees",
-        "waived": true
+        "url": "https://bursar.cornell.edu/students-parents/tuition-rates-and-fees"
       },
       "fundingTerm": "管理学PhD录取者获5年学费、个人医疗保险与津贴；2026-07-01起项目公布年度津贴US$50,084。须保持学业进展、参与研究并完成相当于3个course-assistant credits；家属保险另付。津贴为公布总额，非税后净收入，以个人offer确认。",
       "careers": {
@@ -1288,8 +1286,7 @@ export const octoberExpansionPrograms:Program[]=[
         "basis": "每年",
         "year": "2026/27",
         "note": "博士标准年学费原价；符合资助条件时tuition remission。活动费US$90/年和recreation US$110/年由学生支付，不含在研究生院资助中。",
-        "url": "https://sfs.brown.edu/tuition-fees/graduate-phd-tuition-fees",
-        "waived": true
+        "url": "https://sfs.brown.edu/tuition-fees/graduate-phd-tuition-fees"
       },
       "fundingTerm": "经济系称新生获6年含暑期的资助，含津贴、学费减免、health-services fee及医牙保险；首年fellowship，后续在good standing下为TA/RA或fellowship。研究生院津贴页明确列出的历史2025/26博士基础津贴为US$52,198/12个月；该金额不冒充2026/27或2030标准，不是税后净到手。",
       "careers": {
