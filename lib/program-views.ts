@@ -1,7 +1,7 @@
 import type {Program} from './catalog.ts';
 
 export type DegreeGroup='硕士'|'博士';
-export type View='masters'|'doctorates'|'saved'|'sources'|'profile';
+export type View='masters'|'doctorates'|'saved'|'sources'|'profile'|'decision'|'careers'|'internships';
 
 export function programsForDegree(items:Program[],degree:DegreeGroup){
  return items.filter(p=>degree==='博士'?p.degree==='博士':['硕士','研究硕士'].includes(p.degree));
@@ -14,6 +14,9 @@ export function resolveProgramPage(hash:string):{view:View;degree:DegreeGroup}{
  if(key==='sources-doctorates')return {view:'sources',degree:'博士'};
  if(key==='saved-masters')return {view:'saved',degree:'硕士'};
  if(key==='sources-masters')return {view:'sources',degree:'硕士'};
+ if(key==='internships'||key.startsWith('internships?'))return {view:'internships',degree:'硕士'};
+ if(key==='careers')return {view:'careers',degree:'硕士'};
+ if(key==='decision')return {view:'decision',degree:'硕士'};
  if(key==='profile')return {view:'profile',degree:'硕士'};
  return {view:'masters',degree:'硕士'};
 }

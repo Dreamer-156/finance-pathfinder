@@ -3,6 +3,7 @@ import {Button} from '@/components/ui/button';
 import {Dialog,DialogContent,DialogHeader,DialogTitle,DialogDescription} from '@/components/ui/dialog';
 import {assess,phdEntryLabels,type Program,type Profile,type SourceCheck,type Cost} from '@/lib/catalog';
 import {careerProfile,feePresentation} from '@/lib/program-details';
+import {costSummary} from '@/lib/program-export';
 
 function schoolMark(school:string){
  const marks:[string,string][]=[['北京大学','PKU'],['清华','THU'],['上海交通','SJTU'],['香港中文','CUHK'],['香港科技','HKUST'],['香港大学','HKU'],['新加坡国立','NUS'],['南洋','NTU'],['新加坡管理','SMU'],['斯坦福','GSB'],['麻省','MIT'],['牛津','OX'],['剑桥','CAM'],['伦敦商','LBS'],['伦敦政','LSE'],['帝国','ICL'],['哥伦比亚','COL'],['普林斯顿','PRI'],['芝加哥','CHI'],['哈佛','HBS'],['宾夕法尼亚','PENN'],['纽约大学','NYU'],['卡内基','CMU'],['伯克利','UCB'],['墨尔本','MEL'],['多伦多','TOR'],['滑铁卢','UW'],['不列颠','UBC'],['斯德哥尔摩','SSE'],['博科尼','BOC'],['圣加仑','HSG'],['曼海姆','MAN'],['巴塞罗那','BSE'],['Baruch','BAR'],['高等商','HEC'],['INSEAD','INSEAD'],['新南威尔士','UNSW']];
@@ -40,8 +41,10 @@ export function DetailOverview({p,check}:{p:Program;check?:SourceCheck}){
  </div>;
 }
 
-export function ProgramComparison({items,open,onOpenChange,checks,onRemove}:{items:Program[];open:boolean;onOpenChange:(open:boolean)=>void;checks:Record<string,SourceCheck>;onRemove:(id:string)=>void}){
+export function ProgramComparison({items,open,onOpenChange,checks,costs,profile,onRemove}:{items:Program[];open:boolean;onOpenChange:(open:boolean)=>void;checks:Record<string,SourceCheck>;costs:Record<string,Cost>;profile:Profile;onRemove:(id:string)=>void}){
  const rows:{label:string;render:(p:Program)=>React.ReactNode}[]=[
+  {label:'自填全学制自付',render:p=>{const c=costSummary(p,profile,costs[p.id],checks[p.id]);return <><b>{c.total===null?'尚未算清':`¥${c.total.toLocaleString()}`}</b><p>{c.missing.length?`缺少：${c.missing.join('、')}`:c.budget}</p><small>人民币全学制 · 仅扣已确认奖助</small>{c.changed&&<p>官方来源有变化，参考资料须复核。</p>}</>;}},
+  ...([['tuition','自填总学费'],['living','自填住宿生活'],['other','自填其他费用'],['confirmedAid','已确认奖助']] as const).map(([key,label])=>({label,render:(p:Program)=>{const value=costs[p.id]?.[key];return <><b>{value==null?'未填写':`¥${value.toLocaleString()}`}</b><small>人民币 · 全学制{key==='confirmedAid'?'；未填写不抵扣':''}</small></>;}})),
   {label:'参考学费',render:p=>{const f=feePresentation(p,checks[p.id]);return <><b>{f.value}</b><p>{f.context}</p>{f.policy&&<p>{f.policy}</p>}</>;}},
   {label:'资助政策',render:p=><><b>{p.funding}</b><p>{p.details?.fundingTerm??p.aidNote}</p>{p.details?.stipend&&<p>{p.details.stipend}</p>}</>},
   {label:'主要对口就业',render:p=><><div className="career-tags">{careerProfile(p).paths.map(v=><span key={v}>{v}</span>)}</div><small>{careerProfile(p).basis}</small></>},

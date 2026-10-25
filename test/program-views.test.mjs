@@ -23,3 +23,5 @@ test('default navigation opens masters and URLs restore degree-specific saved an
  }
  assert.deepEqual(resolveProgramPage('#unknown'),{view:'masters',degree:'硕士'});
 });
+
+test('internship links restore the integration view without changing graduate degree pages',()=>{assert.deepEqual(resolveProgramPage('#internships?career=quant-research&preparation=1'),{view:'internships',degree:'硕士'});assert.equal(programPageHash('internships','博士'),'internships');});
